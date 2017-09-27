@@ -1,8 +1,7 @@
 <?php
- echo "Does this really work?"; 
+ echo "Does this really work?";
 
 ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
